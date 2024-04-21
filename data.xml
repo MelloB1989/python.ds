@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>South Africa</index>
+    <Matches>23</Matches>
+    <Won>15</Won>
+    <Lost>8</Lost>
+    <Tied>0</Tied>
+  </row>
+  <row>
+    <index>Pakisthan</index>
+    <Matches>23</Matches>
+    <Won>14</Won>
+    <Lost>6</Lost>
+    <Tied>0</Tied>
+  </row>
+  <row>
+    <index>New Zeland</index>
+    <Matches>21</Matches>
+    <Won>13</Won>
+    <Lost>8</Lost>
+    <Tied>0</Tied>
+  </row>
+  <row>
+    <index>Uganda</index>
+    <Matches>20</Matches>
+    <Won>13</Won>
+    <Lost>5</Lost>
+    <Tied>0</Tied>
+  </row>
+  <row>
+    <index>Bangladesh</index>
+    <Matches>24</Matches>
+    <Won>11</Won>
+    <Lost>13</Lost>
+    <Tied>0</Tied>
+  </row>
+</data>
