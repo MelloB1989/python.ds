@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>Agfa ePhoto 1280</index>
+    <Release_Date>1997</Release_Date>
+    <Max_resolution>1024</Max_resolution>
+    <Low_resolution>640</Low_resolution>
+    <Effective_pixels>0</Effective_pixels>
+    <Zoom_wide>38</Zoom_wide>
+  </row>
+  <row>
+    <index>Canon EOS 10D</index>
+    <Release_Date>2003</Release_Date>
+    <Max_resolution>3072</Max_resolution>
+    <Low_resolution>2048</Low_resolution>
+    <Effective_pixels>6</Effective_pixels>
+    <Zoom_wide>0</Zoom_wide>
+  </row>
+  <row>
+    <index>Epson</index>
+    <Release_Date>1997</Release_Date>
+    <Max_resolution>640</Max_resolution>
+    <Low_resolution>320</Low_resolution>
+    <Effective_pixels>0</Effective_pixels>
+    <Zoom_wide>43</Zoom_wide>
+  </row>
+  <row>
+    <index>Fujifilm</index>
+    <Release_Date>2004</Release_Date>
+    <Max_resolution>4256</Max_resolution>
+    <Low_resolution>3024</Low_resolution>
+    <Effective_pixels>6</Effective_pixels>
+    <Zoom_wide>0</Zoom_wide>
+  </row>
+  <row>
+    <index>HP</index>
+    <Release_Date>2005</Release_Date>
+    <Max_resolution>2592</Max_resolution>
+    <Low_resolution>2048</Low_resolution>
+    <Effective_pixels>5</Effective_pixels>
+    <Zoom_wide>36</Zoom_wide>
+  </row>
+  <row>
+    <index>Kodak</index>
+    <Release_Date>2004</Release_Date>
+    <Max_resolution>0</Max_resolution>
+    <Low_resolution>0</Low_resolution>
+    <Effective_pixels>2</Effective_pixels>
+    <Zoom_wide>37</Zoom_wide>
+  </row>
+  <row>
+    <index>Nikon</index>
+    <Release_Date>2004</Release_Date>
+    <Max_resolution>2288</Max_resolution>
+    <Low_resolution>1600</Low_resolution>
+    <Effective_pixels>3</Effective_pixels>
+    <Zoom_wide>35</Zoom_wide>
+  </row>
+  <row>
+    <index>Olympus</index>
+    <Release_Date>2005</Release_Date>
+    <Max_resolution>2592</Max_resolution>
+    <Low_resolution>2288</Low_resolution>
+    <Effective_pixels>5</Effective_pixels>
+    <Zoom_wide>38</Zoom_wide>
+  </row>
+</data>
