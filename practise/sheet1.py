@@ -2,6 +2,7 @@ import pandas as pd
 from lxml import objectify
 import os
 import sqlite3
+import re
 
 index = ['Agfa ePhoto 1280', 'Canon EOS 10D', 'Epson', 'Fujifilm', 'HP', 'Kodak', 'Nikon', 'Olympus']
 release_date = pd.Series([1997,2003,1997,2004,2005,2004,2004,2005], index=index)
@@ -51,5 +52,11 @@ conn = sqlite3.connect('sheet1.db')
 q = 'select * from emp'
 #q = 'update emp set name = "Aparna" where name = "aparna"'
 r = conn.execute(q)
-print(r.fetchall()) # To get
+#print(r.fetchall()) # To get
 conn.commit()
+
+depts = pd.Series(['AI ML', 'CSE', 'ECE', 'EEE', 'CIVIL'])
+
+#print(depts.str.split())
+print(depts.str.count(pat='e', flags=re.IGNORECASE))
+print(depts.str.find(r'l$', flags=re.IGNORECASE))
